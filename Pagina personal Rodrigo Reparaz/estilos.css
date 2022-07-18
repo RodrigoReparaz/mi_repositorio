@@ -1,0 +1,413 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    height: 200px;
+    width: 100%;
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+}
+.principal{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-decoration: solid;
+    font-size: 20px;
+    padding-left: 5%;
+}
+.logorr{
+    text-align: right;
+    position: absolute;
+    top: 1%;
+    left: 85%;
+}
+.barra{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 5%;
+}
+.barra h2 ul li{
+    list-style: none;
+}
+.barra h2 ul li{
+    display: inline-block;
+}
+.barra h2 ul li a{
+    text-decoration: none;
+    color: rgb(81, 101, 252);
+    font-size: 18px;
+    padding: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
+.call{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    padding-left: 5%;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+.call div{
+    text-align: left;
+    padding-right: 5%;
+}
+.call div h2{
+    padding-right: 60%;
+    padding-top: 10%;
+}
+.imgpersonal1{
+    position: absolute;
+    width: 40%;
+    height: 60%;
+    left: 55%;
+    top: 50%;
+    border-radius: 10px;
+}
+.fabajo{
+    position: absolute;
+    left: 50%;
+    border-radius: 20px;
+}
+footer{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%); 
+    min-height: 50px;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+.rrfooter{
+    text-align: right;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.headerdp{
+    height: 150px;
+    width: 100%;
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+}
+.principaldp{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-decoration: solid;
+    font-size: 40px;
+    padding-left: 5%;
+}
+.barradp{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 5%;
+}
+.barradp h2 ul li{
+    list-style: none;
+}
+.barradp h2 ul li{
+    display: inline-block;
+}
+.barradp h2 ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
+.maindp{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+    background-size: 100%;
+    background-position: center;
+    height: 30vh;
+    width: 100%;
+    padding-left: 5%;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    line-height: 2cm;
+}
+.imgdp{
+    position: absolute;
+    height: 25%;
+    width: 20%;
+    right: 100px;
+    top: 180px;
+}
+.main2dp{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+    background-size: 100%;
+    background-position: center;
+    height: 50vh;
+    width: 100%;
+    padding-left: 5%;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:x-large;
+    line-height: 2cm;
+}
+.imgdphtml{
+    position: absolute;
+    left: 10%; 
+    top: 70%;
+}
+.imgdpcss{
+    position: absolute;
+    right: 47.5%;
+    top: 70%;
+}
+.imgdpjavascript{
+    position: absolute;
+    right: 10%;
+    top: 70%;
+}
+footer{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+    min-height: 50px;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+.rrfooterdp{
+    text-align: right;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.headersv{
+    height: 150px;
+    width: 100%;
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+}
+.principalsv{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-decoration: solid;
+    font-size: 40px;
+    padding-left: 5%;
+}
+.barrasv{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 5%;
+}
+.barrasv h2 ul li{
+    list-style: none;
+}
+.barrasv h2 ul li{
+    display: inline-block;
+}
+.barrasv h2 ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mainsv{
+    display: flex;
+    flex-flow: row;
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+    background-size: 100%;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    line-height: 2cm;
+}
+.tablasv{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 0%;
+    margin-bottom: 20px;
+}
+.tablasv div{
+    border-style: double;
+    border-radius: 10%;
+    margin: 5px;
+    padding: 2px;
+    text-align: center;
+}
+
+footer{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+    min-height: 50px;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+.rrfootersv{
+    text-align: right;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.headerpr{
+    height: 150px;
+    width: 100%;
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+}
+.barrapr{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 5%;
+}
+.barrapr h2 ul li{
+    list-style: none;
+}
+.barrapr h2 ul li{
+    display: inline-block;
+}
+.barrapr h2 ul li a{
+    text-decoration: none;
+    color:#fff;
+    font-size: 18px;
+    padding: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.principalpr{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-decoration: solid;
+    font-size: 40px;
+    padding-left: 5%;
+}
+.mainpr{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+    background-size: 100%;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    padding-left: 5%;
+}
+
+.container-img{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 250px;
+    grid-gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.container-img .box-img figure{
+    width: 100%;
+    height: 100%;
+}
+.container-img .box-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    border-radius: 10px;
+}
+.container-img .box-img:nth-child(1){
+    grid-column-start: span 2;
+}
+@media screen and (max-width: 500px){
+    .container-img{
+        width: 90%;
+        grid-template-columns: repeat (1fr);
+    }
+    .container-img .box-img img{
+        height: 200px;
+    }
+    }
+
+footer{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+    min-height: 50px;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+.rrfooterpr{
+    text-align: right;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.headerct{
+    height: 150px;
+    width: 100%;
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+}
+.barract{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 5%;
+}
+.barract h2 ul li{
+    list-style: none;
+}
+.barract h2 ul li{
+    display: inline-block;
+}
+.barract h2 ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.principalct{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    text-decoration: solid;
+    font-size: 40px;
+    padding-left: 5%;
+}
+.mainct{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%); 
+    background-size: 100%;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1cm;
+    line-height: 2cm;
+}
+#mainct2{
+    text-align: center;
+    font-size: 1.2cm;
+}
+footer{
+    background: rgba(9, 2, 138, 0.626);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(92,176,231,1) 70%, rgba(0,212,255,1) 100%);
+    min-height: 50px;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+.rrfooterct{
+    text-align: right;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

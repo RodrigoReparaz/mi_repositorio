@@ -105,9 +105,10 @@ footer {
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(92, 176, 231, 1) 70%, rgba(0, 212, 255, 1) 100%);
     background-size: 100%;
     background-position: center;
-    height: 50vh;
+    height: 45vh;
     width: 100%;
     padding-left: 5%;
+    padding-top: 7%;
     color: #fff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
@@ -119,7 +120,7 @@ footer {
     height: 20%;
     width: 20%;
     right: 100px;
-    top: 180px;
+    top: 230px;
     border-radius: 10%;
 }
 
@@ -164,7 +165,7 @@ footer {
 .container-img-dp .box-img-dp img {
     width: 100%;
     height: 100%;
-    object-fit: fill;
+    object-fit: contain;
     border-radius: 10px;
 }
 
